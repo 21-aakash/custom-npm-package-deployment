@@ -1,0 +1,26 @@
+{
+  "name": "sky-npm",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21-aakash/sky-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Aakash Tembhare",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/21-aakash/sky-npm/issues"
+  },
+  "homepage": "https://github.com/21-aakash/sky-npm#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
